@@ -13,5 +13,22 @@
     "name" : "Lomba Sihir",
     "debutYear" : "2022",
     "description" : "Lomba Sihir is an Indonesian indie-pop band known for its fresh and experimental sound, blending elements of pop, electronic, and alternative music. Formed as a backing band for Hindia (Baskara Putra), the group eventually developed its own identity, showcasing a unique musical style with catchy melodies and thought-provoking lyrics. Their debut album, Selamat Datang di Ujung Dunia (2021), received praise for its innovative production and relatable themes, making them one of the rising stars in Indonesia’s indie music scene."
+    },
+    
+    {
+        "name": "Billie Eilish",
+        "debutYear": "2015",
+        "description": "Billie Eilish is an American singer-songwriter known for her unique voice and genre-blending music. Rising to fame with her hit 'Ocean Eyes,' she gained global recognition with her debut album, 'When We All Fall Asleep, Where Do We Go?' (2019). Her music, often introspective and darkly atmospheric, has won multiple Grammy Awards and continues to influence the pop and alternative music scenes."
+    },
+    {
+        "name": "Juicy Luicy",
+        "debutYear": "2016",
+        "description": "Juicy Luicy is an Indonesian pop band known for its emotional lyrics and smooth melodies. Their music, often centered around love and heartbreak, has captured a loyal fanbase. With hits like 'Tanpa Tergesa' and 'Lantas,' Juicy Luicy has solidified its place in the Indonesian indie-pop scene."
+    },
+    {
+        "name": "NIKI",
+        "debutYear": "2017",
+        "description": "NIKI is an Indonesian singer-songwriter who gained international recognition under 88rising. Her music blends R&B, indie pop, and alternative elements, creating a distinct and personal sound. With albums like 'Moonchild' (2020) and 'Nicole' (2022), NIKI has established herself as one of the most influential Southeast Asian artists in the global music industry."
     }
+
 ]
