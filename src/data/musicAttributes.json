@@ -1,0 +1,65 @@
+[
+  {
+    "id" : 1,
+    "title" : "Nina",
+    "release" : "5 juli 2024",
+    "audioPath" : "public/assets/Feast - Nina (Official Lyric Video).mp3",
+    "idArtist" : "1"
+  },
+  {
+    "id" : 2,
+    "title" : "o Tuan",
+    "release" : "30 Agustus 2024",
+    "audioPath" : "/assets/Feast - o Tuan (Official Lyric Video).mp3",
+    "idArtist" : "1"
+  },
+  {
+    "id" : 3,
+    "title" : "Tarot",
+    "release" : "3 Mei 2024",
+    "audioPath" : "/assets/Feast - Tarot (Official Lyric Video).mp3",
+    "idArtist" : "1"
+  },
+  {
+    "id" : 4,
+    "title" : "Untuk Apa",
+    "release" : "29 November 2019",
+    "audioPath" : "/assets/Hindia - Untuk Apa Untuk Apa (_Official Lyric & Commentary Video).mp3",
+    "idArtist" : "2"
+  },
+  {
+    "id" : 5,
+    "title" : "Ramai Sepi Bersama",
+    "release" : "19 April 2020",
+    "audioPath" : "/assets/Hindia - Ramai Sepi Bersama (Official Lyric Video).mp3",
+    "idArtist" : "2"
+  },
+  {
+    "id" : 6,
+    "title" : "Evaluasi",
+    "release" : "22 Maret 2019",
+    "audioPath" : "/assets/Hindia - Evaluasi (Official Music Video).mp3",
+    "idArtist" : "2"
+  },
+  {
+    "id" : 7,
+    "title" : "Semua Orang Pernah Sakit Hati",
+    "release" : "26 Maret 2021",
+    "audioPath" : "/assets/Lomba Sihir - Semua Orang Pernah Sakit Hati (Official Music Video).mp3",
+    "idArtist" : "3"
+  },
+  {
+    "id" : 8,
+    "title" : "Hati & Paru - paru",
+    "release" : "26 Februari 2021",
+    "audioPath" : "/assets/Lomba Sihir - Hati dan Paru-Paru (Official Music Video).mp3",
+    "idArtist" : "3"
+  },
+  {
+    "id" : 9,
+    "title" : "Ribuan Memori",
+    "release" : "13 April 2023",
+    "audioPath" : "/assets/Ribuan Memori.mp3",
+    "idArtist" : "3"
+  }
+]
