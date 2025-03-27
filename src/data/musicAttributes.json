@@ -63,83 +63,83 @@
     "idArtist" : "3"
   },
   {
-        "id" : 10,
-        "title" : "WILDFLOWER",
-        "release" : "17 Mei 2024",
-        "audioPath" : "/assets/Billie Eilish - WILDFLOWER (Official Lyric Video).mp3",
-        "idArtist" : "4"
+    "id" : 10,
+    "title" : "WILDFLOWER",
+    "release" : "17 Mei 2024",
+    "audioPath" : "/assets/Billie Eilish - WILDFLOWER (Official Lyric Video).mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 11,
-        "title" : "BIRDS OF A FEATHER",
-        "release" : "02 Juli 2024",
-        "audioPath" : "/assets/Billie Eilish - BIRDS OF A FEATHER (Official Lyric Video).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 11,
+    "title" : "BIRDS OF A FEATHER",
+    "release" : "02 Juli 2024",
+    "audioPath" : "/assets/Billie Eilish - BIRDS OF A FEATHER (Official Lyric Video).mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 12,
-        "title" : "THE GREATEST",
-        "release" : "17 Mei 2024",
-        "audioPath" : "/assets/Billie Eilish - THE GREATEST (Official Lyric Video).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 12,
+    "title" : "THE GREATEST",
+    "release" : "17 Mei 2024",
+    "audioPath" : "/assets/Billie Eilish - THE GREATEST (Official Lyric Video).mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 13,
-        "title" : "Ocean Eyes",
-        "release" : "18 November 2016",
-        "audioPath" : "/assets/Billie Eilish - Ocean Eyes (Official  Video).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 13,
+    "title" : "Ocean Eyes",
+    "release" : "18 November 2016",
+    "audioPath" : "/assets/Billie Eilish - Ocean Eyes (Official  Video).mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 14,
-        "title" : "idontwannabeyouanymore",
-        "release" : "21 Juli 2017",
-        "audioPath" : "/assets/Billie Eilish - idontwannabeyouanymore (Official Audio).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 14,
+    "title" : "idontwannabeyouanymore",
+    "release" : "21 Juli 2017",
+    "audioPath" : "/assets/Billie Eilish - idontwannabeyouanymore (Official Audio).mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 15,
-        "title" : "Happier Than Ever",
-        "release" : "30 Juli 2021",
-        "audioPath" : "/assets/Billie Eilish - Happier Than Ever (Official Music Video).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 15,
+    "title" : "Happier Than Ever",
+    "release" : "30 Juli 2021",
+    "audioPath" : "/assets/Billie Eilish - Happier Than Ever (Official Music Video).mp3",
+    "idArtist" : "4"
 
-    },
+ },
 
-    {
-        "id" : 16,
-        "title" : "TV",
-        "release" : "21 Juli 2022",
-        "audioPath" : "/assets/Billie Eilish - TV (Official Lyric Video).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 16,
+    "title" : "TV",
+    "release" : "21 Juli 2022",
+    "audioPath" : "/assets/Billie Eilish - TV (Official Lyric Video).mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 17,
-        "title" : "Lovely",
-        "release" : "19 April 2018",
-        "audioPath" : "/assets/Billie Eilish - lovely (Lyrics) ft. Khalid.mp3",
-        "idArtist" : "4"
+  {
+    "id" : 17,
+    "title" : "Lovely",
+    "release" : "19 April 2018",
+    "audioPath" : "/assets/Billie Eilish - lovely (Lyrics) ft. Khalid.mp3",
+    "idArtist" : "4"
 
-    },
+  },
 
-    {
-        "id" : 18,
-        "title" : "No Time To Die",
-        "release" : "13 Februari 2020",
-        "audioPath" : "/assets/Billie Eilish - No Time To Die (Official Music Video).mp3",
-        "idArtist" : "4"
+  {
+    "id" : 18,
+    "title" : "No Time To Die",
+    "release" : "13 Februari 2020",
+    "audioPath" : "/assets/Billie Eilish - No Time To Die (Official Music Video).mp3",
+    "idArtist" : "4"
 
-    }
+  }
 ]
